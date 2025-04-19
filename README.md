@@ -19,15 +19,11 @@ Antes de dedicarme a la programación, trabajé en el mundo audiovisual y del es
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ## 📌 En qué estoy trabajando
 
 - ✨ Mejorando mis habilidades con **Symfony**, **Git** y **JavaScript**
 - 📚 Aprendiendo sobre buenas prácticas de desarrollo como **Clean Code**
 - 🧠 Participando en proyectos personales y profesionales
-
----
 
 ## 📊 GitHub Stats
 
@@ -35,20 +31,14 @@ Antes de dedicarme a la programación, trabajé en el mundo audiovisual y del es
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enlike21&layout=compact&theme=github_dark)
 
----
-
 ## 📈 Actividad reciente
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=enlike21&theme=dark&hide_border=true)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=enlike21&color=blue&style=flat)
 
----
-
 ## 📫 ¿Dónde encontrarme?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-velez-aguilar-51650a202/)
-
----
 
 ¡Gracias por visitar mi GitHub!
