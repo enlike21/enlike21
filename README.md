@@ -8,8 +8,6 @@ Soy un desarrollador web junior dedicado a construir soluciones funcionales, lim
 
 Antes de dedicarme a la programación, trabajé en el mundo audiovisual y del espectáculo como técnico de plató, operador de cámara y fotógrafo. Esa etapa me enseñó a ser resolutivo, creativo y trabajar bajo presión, cualidades que aplico hoy en cada línea de código.
 
----
-
 ## 🚀 Tecnologías y herramientas
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
