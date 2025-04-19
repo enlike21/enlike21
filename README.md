@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @enlike21, Enrique Vélez Aguilar.<br>- 👀 I’m interested in developement with Java, PHP, JavaScript, HTML/CSS and Pyhton<br>- 🌱 I’m currently learning Java, PHP, JavaScript, HTML/CSS and Pyhton<br>- 💞️ I’m looking to collaborate on IES Punta del Verde<br>- 📫 How to reach me https://es.linkedin.com/in/enrique-velez-aguilar-51650a202
+- 👋 Hi, I’m @enlike21, Enrique Vélez Aguilar.<br>- 👀 I’m interested in developement with Java, PHP, JavaScript <br>- 🌱 I’m currently learning Java, PHP, JavaScript, HTML/CSS and Symfony<br>- 📫 How to reach me https://es.linkedin.com/in/enrique-velez-aguilar-51650a202
 
 
 ## 🌐 Socials:
