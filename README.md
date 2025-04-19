@@ -2,8 +2,6 @@
 
 🎓 **Junior Full Stack Developer** | PHP • JavaScript • Symfony • Java • Git • Docker
 
----
-
 ## 🧑‍💻 Sobre mí
 
 Soy un desarrollador web junior dedicado a construir soluciones funcionales, limpias y escalables. Terminé mis estudios de Grado Superior en 2023 y desde entonces he estado implicado en el mundo del desarrollo web, combinando formación formal, cursos online y aprendizaje autodidacta, además de experiencia real en el mundo profesional.
@@ -31,10 +29,25 @@ Antes de dedicarme a la programación, trabajé en el mundo audiovisual y del es
 
 ---
 
-## 📫 ¿Quieres contactarme?
+## 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/enrique-velez-aguilar-51650a202/)
-- 📧 Email: enriquevelezaguilar@gmail.com
+![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueVelezDev&show_icons=true&theme=github_dark&hide=issues&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueVelezDev&layout=compact&theme=github_dark)
+
+---
+
+## 📈 Actividad reciente
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EnriqueVelezDev&theme=dark&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=EnriqueVelezDev&color=blue&style=flat)
+
+---
+
+## 📫 ¿Dónde encontrarme?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-velez-aguilar-51650a202/)
 
 ---
 
