@@ -31,17 +31,17 @@ Antes de dedicarme a la programación, trabajé en el mundo audiovisual y del es
 
 ## 📊 GitHub Stats
 
-![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnriqueVelezDev&show_icons=true&theme=github_dark&hide=issues&count_private=true)
+![Enrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=enlike21&show_icons=true&theme=github_dark&hide=issues&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueVelezDev&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enlike21&layout=compact&theme=github_dark)
 
 ---
 
 ## 📈 Actividad reciente
 
-![GitHub Streak](https://streak-stats.demolab.com?user=EnriqueVelezDev&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=enlike21&theme=dark&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=EnriqueVelezDev&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=enlike21&color=blue&style=flat)
 
 ---
 
